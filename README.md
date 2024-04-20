@@ -16,7 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 
 run the application= Flutter run
 
-# A few resources to get you started if this is your firebase project:
+# A few resources to get you started if this is your first firebase project:
 
 For help getting started with Flutter development, view the
 -(https://firebase.google.com/docs/projects/learn-more)
