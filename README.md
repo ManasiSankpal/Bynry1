@@ -52,6 +52,7 @@ Follow instructions to add your Flutter app to the Firebase project.
 
 ## Screenshots
 ![IMG-20240421-WA0001](https://github.com/ManasiSankpal/bynry1/assets/138512997/f7c5838c-244f-4fb2-8bd3-2837a26041fa)
+![WhatsApp Image 2024-04-21 at 01 20 43_6f275902](https://github.com/ManasiSankpal/bynry1/assets/138512997/82dcfcb7-6ffb-4f8f-80ca-c329f1bd4266)
 ![IMG-20240421-WA0002](https://github.com/ManasiSankpal/bynry1/assets/138512997/37f01469-52a8-459b-8c07-753f7c0d482a)
 ![IMG-20240421-WA0003](https://github.com/ManasiSankpal/bynry1/assets/138512997/884c1d50-3e4d-45c1-b26e-977423871cac)
 ![IMG-20240421-WA0004](https://github.com/ManasiSankpal/bynry1/assets/138512997/53c52c85-18e4-4123-a81f-e0381fbe2b15)
